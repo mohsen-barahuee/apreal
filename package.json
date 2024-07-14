@@ -1,6 +1,7 @@
 {
-  "homepage": "https://mohsen-barahuee.github.io/apreal",
+
   "name": "my-app",
+  "homepage": "https://mohsen-barahuee.github.io/apreal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
