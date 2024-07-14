@@ -12,7 +12,7 @@ import Productpage from "./Pages/ProductPage/Productpage.jsx";
 
 
 let routes = [
-    { path: '/apreal', element: <Home /> },
+    { path: '/', element: <Home /> },
     { path: '/earrings', element: <Earrings /> },
     { path: '/about', element: <About /> },
     { path: '/values', element: <Values /> },
