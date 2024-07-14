@@ -1,0 +1,41 @@
+.shiping_container{
+
+
+    width: 461px !important;
+    height:105px !important;
+    border: 1px solid black !important;
+}
+
+
+.shiping_text{
+    font-size: 12px;
+    color: #6D6D6D;
+}
+
+
+.shiping_method_container{
+
+    width: 461px;
+    height: 252px;
+    border: 1px solid #838383;
+}
+
+
+
+.circle_check{
+    width: 18px;
+    height: 18px;
+   border: 1px solid gray;
+   cursor: pointer;
+
+}
+
+
+
+.circle_in{
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    
+}
+

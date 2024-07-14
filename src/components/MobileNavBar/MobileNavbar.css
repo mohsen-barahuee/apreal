@@ -1,0 +1,46 @@
+
+.mobile_container{
+    height: 63px !important;
+} 
+
+
+.mobile_navbar_item{
+
+    font-size: 15px;
+    font-weight: bold;
+} 
+
+
+.mobile_navbar_items{
+
+    font-size: 12px;
+    color: #565656;
+}
+
+.mobile_navbar_item_accordion{
+    border: none !important;
+    padding: none !important;
+}
+
+
+.mobile_search{
+
+   
+    outline: none;
+    border: 0px;
+    border-bottom: 1px solid black !important; 
+    font-size: 12px;
+}
+
+
+@media only screen and (max-width:990px) {
+
+    .mobile_logo{
+
+        width: 76.75px ;
+        height: 23.12px;
+    }
+
+    
+}
+

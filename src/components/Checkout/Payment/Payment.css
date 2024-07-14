@@ -1,0 +1,28 @@
+.shiping_container_payment{
+    width: 461px;
+    border: 1px solid black;
+}
+
+
+.credit_card_container{
+    width: 459px;
+    border: 1px solid black;
+}
+
+.b_container{
+    width: 32px;
+    height: 20px;
+    background-color: #EEA633;
+    border-radius: 2px;
+    color: white;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.select_address_container{
+    width: 461px;
+    border: 1px solid black;
+    padding: 10px;
+}

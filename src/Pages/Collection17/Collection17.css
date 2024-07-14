@@ -1,0 +1,23 @@
+
+
+.list_item{
+
+    font-size: 12px !important;
+    cursor: default;
+}
+
+
+
+.first_list{
+    color: #494949;
+    cursor: default;
+}
+
+
+
+@media only screen and (max-width:990px){
+
+    .mobile_image{
+        width: 100%;
+    }
+}

@@ -1,0 +1,93 @@
+
+.contact_input_container{
+
+    width: 500px;
+}
+
+
+.contact_input{
+    width: 241px;
+    height: 40px;
+    padding: 15px;
+    font-size: 13px;
+    border: 1px solid black;
+    outline: none;
+}
+
+.msg_input{
+
+    padding: 15px;
+    height: 126px;
+    border: 1px solid black;
+    outline: none;
+}
+
+.contact_btn{
+    height: 40px;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    transition:all 150ms linear;
+    border: 1px solid black !important;
+    -webkit-transition:all 150ms linear;
+    -moz-transition:all 150ms linear;
+    -ms-transition:all 150ms linear;
+    -o-transition:all 150ms linear;
+}
+
+.contact_btn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black !important;
+
+}
+
+
+.contact_email_input{
+
+    border: none !important;;
+    border-bottom: 1px solid black !important;
+    outline: none;
+    color: black !important;
+
+}
+
+
+
+
+@media only screen and (max-width:990px){
+
+    
+    .contact_image{
+        width: 345px;
+        height: 254px;
+    }
+
+    .contact_input_container{
+
+        width: 345px;
+    }
+
+    .contact_input{
+        width: 166px;
+        height: 40px;
+    }
+
+    .contact_email_input{
+        font-size: 13px;
+    }
+
+    .sign_up_contact_text{
+        font-size: 12px;
+    }
+    
+    .msg_input{
+        font-size: 13px;
+    }
+
+    .contact_input{
+        font-size: 13px;
+    }
+
+  }

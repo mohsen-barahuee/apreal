@@ -1,0 +1,74 @@
+.check_out_line{
+
+    width: 1px;
+   
+    background-color: black;
+}
+
+.check_out_email{
+    width: 460px;
+    height: 40px;
+    outline: none;
+    border: 1px solid black;
+    font-size: 14px;
+}
+
+
+.check_out_information_input{
+
+    width: 221px;
+    height: 40px;
+    border: 1px solid black;
+    font-size: 13px;
+    outline: none;
+}
+
+
+.continue_shoping_btn{
+
+    width: 209px;
+    height: 40px;
+    font-size: 12px;
+}
+
+
+.final_basket_img{
+
+    width: 68px;
+    height: 84px;
+    object-fit: contain;
+}
+
+.product_number{
+    width: 22px;
+    height: 21px;
+    background-color: white;
+    right: -12px;
+    top: -10px;
+}
+
+
+
+@media only screen and (max-width:990px) {
+    .product_number{
+        width: 18px;
+        height: 17px;
+        background-color: white;
+        top: -5px;
+        right: -6px;
+    }
+
+    .mobile_show_summery{
+        transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+}
+   .mobile_checkbox{
+    width: 17px;
+    height: 17px;
+    border: 1px solid #BDBDBD;
+   }
+   
+}

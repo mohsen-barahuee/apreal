@@ -1,0 +1,14 @@
+
+
+.cart_basket_mobile_image{
+    width: 68px;
+    height: 84px;
+}
+
+@media only screen and (max-width:990px) {
+    .cart_basket_mobile_image{
+        width: 56px !important;
+    }
+
+   
+}
