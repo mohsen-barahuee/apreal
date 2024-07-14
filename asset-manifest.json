@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/apreal/static/css/main.0b6d7433.css",
+    "main.css": "/apreal/static/css/main.ed8daa11.css",
     "main.js": "/apreal/static/js/main.349c9bc1.js",
     "index.html": "/apreal/index.html",
-    "main.0b6d7433.css.map": "/apreal/static/css/main.0b6d7433.css.map",
+    "main.ed8daa11.css.map": "/apreal/static/css/main.ed8daa11.css.map",
     "main.349c9bc1.js.map": "/apreal/static/js/main.349c9bc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b6d7433.css",
+    "static/css/main.ed8daa11.css",
     "static/js/main.349c9bc1.js"
   ]
 }
