@@ -8,7 +8,7 @@ export default function About() {
       <div className='row'>
         <div className='col-12 col-lg-6'>
           <div>
-            <img src="/images/aboutPic.png" alt="" className='about_pic' />
+            <img src="./images/aboutPic.png" alt="" className='about_pic' />
           </div>
 
         </div>

@@ -22,7 +22,7 @@ export default function Stocklist() {
 
 
         <div>
-          <img src="/images/stockLsitPic.png" alt="" className='w-100' />
+          <img src="./images/stockLsitPic.png" alt="" className='w-100' />
         </div>
 
         <div className='mt-5 '>

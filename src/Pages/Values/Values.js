@@ -7,7 +7,7 @@ export default function Values() {
 
       <div className='row'>
         <div className='col-12 col-lg-12 d-flex flex-column align-items-center'>
-          <img src="/images/valuePic.png" alt="" className='Value_image' />
+          <img src="./images/valuePic.png" alt="" className='Value_image' />
 
           <div className='Value_desc_container mt-4'>
             <div >

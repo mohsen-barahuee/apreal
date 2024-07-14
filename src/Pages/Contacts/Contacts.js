@@ -5,7 +5,7 @@ export default function Contacts() {
   return (
     <div className=' container-fluid'>
       <div className=' d-flex justify-content-center'>
-        <img src="/images/contactPic.png" alt=""  className='contact_image'/>
+        <img src="./images/contactPic.png" alt=""  className='contact_image'/>
       </div>
 
       <div className='d-flex justify-content-center mt-5'>
