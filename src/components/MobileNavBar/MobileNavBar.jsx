@@ -162,7 +162,7 @@ export default function MobileNavBar() {
           </div>
           <div>
             <Link to={"/"}>
-              <img src="/images/logo.png" alt="" className="mobile_logo" />
+              <img src="./images/logo.png" alt="" className="mobile_logo" />
             </Link>
           </div>
           <Link to={"/basketPage"}>
