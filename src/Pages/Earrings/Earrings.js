@@ -3,7 +3,7 @@ import products from '../../Data'
 import { Link } from 'react-router-dom'
 import './Earrings.css'
 import { Accordion } from 'react-bootstrap'
-import { BasketContext } from '../../Context/BasketContext'
+
 
 
 

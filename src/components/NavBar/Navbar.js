@@ -97,7 +97,7 @@ export default function Navbar() {
             <div className='contianer mt-5'>
                 <div>
                     <Link to='/'>
-                        <img src="/images/logo.png" alt="" className='Logo mb-5' />
+                        <img src="./images/logo.png" alt="" className='Logo mb-5' />
                     </Link>
                     <div>
                         <nav class="navbar ">
