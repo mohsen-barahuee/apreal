@@ -31,4 +31,11 @@
     .mobile_container{
         width: 100%;
     }
+   
+    .toast_container{
+        height: 110px;
+        
+        right: 20px;
+        top: 0;
+    }
 }

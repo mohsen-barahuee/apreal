@@ -43,13 +43,13 @@ export default function Productpageitem(props) {
 
     setTimeout(() => {
       closeToast();
-    }, 2000);
+    }, 1000);
   };
 
   return (
     <>
       <Toast
-        className=" position-fixed   toast_container"
+        className=" position-fixed  toast_container"
         show={showToast}
         onClose={closeToast}
       >

@@ -1,6 +1,5 @@
 import React, { useEffect, useContext, useState } from "react";
 import { useLocation } from "react-router-dom";
-
 import Productpageitem from "../../components/ProductPage/Productpageitem.jsx";
 import "./Productpage.css";
 
