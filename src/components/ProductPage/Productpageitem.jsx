@@ -45,7 +45,7 @@ export default function Productpageitem(props) {
       closeToast();
     }, 1000);
   };
-
+  
   return (
     <>
       <Toast

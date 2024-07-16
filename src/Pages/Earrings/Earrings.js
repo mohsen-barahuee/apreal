@@ -69,12 +69,7 @@ export default function Earrings() {
                   </div>
                 </div>
 
-
-
-
-
               </div>
-
 
             </div>
 
